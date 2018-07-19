@@ -1,4 +1,4 @@
-(defproject clj-redis-session-onaio "2.1.3"
+(defproject clj-redis-session-onaio "2.1.3-SNAPSHOT"
   :url "https://github.com/onaio/clj-redis-session"
   :description "Redis-backed Clojure/Ring session store"
   :dependencies [[org.clojure/clojure "1.8.0"]
